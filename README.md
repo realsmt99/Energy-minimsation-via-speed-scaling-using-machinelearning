@@ -65,5 +65,3 @@ Full write-up (French): [`rapport (7) (1).pdf`](./rapport%20(7)%20(1).pdf)
 
 Topics covered: speed-scaling model, YDS / AVR / OA / BKP / LAS, limits of static \(\varepsilon\), Dynamic Trust Engine design, synthetic and Brightkite experiments, hyperparameter sensitivity.
 
-
-/////
